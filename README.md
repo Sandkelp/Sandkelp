@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hi, I'm Sankalp Subhendu👋
+
+I am a freshman at Penn State University studying computer science.
+
+I’m currently taking CMPSC 131(Programming and Computation I: Fundamentals)
+
+I know Java and Python
 
 <!--
 **Sandkelp/Sandkelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
