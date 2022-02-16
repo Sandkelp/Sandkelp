@@ -2,7 +2,7 @@
 
 I am a freshman at Penn State University studying computer science.
 
-I’m currently taking CMPSC 131(Programming and Computation I: Fundamentals)
+I’m currently taking CMPSC 132(Programming and Computation II: Data Structures)
 
 I know Java and Python
 
